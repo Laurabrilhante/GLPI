@@ -40,7 +40,7 @@ section {
   justify-content: center; 
   align-items: center; 
 }
-section input, section input {
+section input {
   background-color: #adadad;
   border: none;
   padding: 15px;
